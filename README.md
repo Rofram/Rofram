@@ -65,9 +65,9 @@ Sunday       97 commits     ██████░░░░░░░░░░░�
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Rofram">
     <img width="460" height="auto" alt="Rofram github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Rofram&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=Rofram&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
     <img height="auto" align="right" alt="Rofram github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofram&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofram&theme=dracula" />
 <!-- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
 </p>
