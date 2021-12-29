@@ -62,7 +62,7 @@ Sunday       97 commits     ██████░░░░░░░░░░░�
 ```
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
+<div> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Rofram">
     <img height="auto" alt="Rofram github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofram&theme=dracula" />
@@ -71,7 +71,7 @@ Sunday       97 commits     ██████░░░░░░░░░░░�
          src="https://github-readme-stats.vercel.app/api?username=Rofram&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
 <!-- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
-</p>
+</div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
