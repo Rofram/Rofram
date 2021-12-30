@@ -2,7 +2,7 @@
 # Hey there! :wave:
 
 <!--Introduction -->
-I'm Rodrigo! I'm a **Web Developer FullStack** Typescript:, looking to solve **real-world problems**. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+I'm Rodrigo! I'm a **Web Developer FullStack**, looking to solve **real-world problems**. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 <br>
 
 <!-- Your badges -->
