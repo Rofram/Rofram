@@ -15,7 +15,7 @@ I'm Rodrigo! I'm a **Web Developer FullStack**, looking to solve **real-world pr
 ![](https://komarev.com/ghpvc/?username=Rofram&style=flat)
 [![Github](https://img.shields.io/badge/-Rofram-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/Rofram)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### Um pouco sobre mim...
 
 ```javascript
 const me = {
