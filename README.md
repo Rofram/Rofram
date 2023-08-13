@@ -60,16 +60,3 @@ Saturday     55 commits     ███░░░░░░░░░░░░░░�
 Sunday       97 commits     ██████░░░░░░░░░░░░░░░░░░░   24.49%
 
 ```
-
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<div style="display: flex; align-content: center; justify-content: space-between"> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/Rofram">
-    <img width="460" height="180rem" alt="Rofram github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Rofram&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  </a>
-    <!-- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-    <img height="180rem" width="auto" alt="Rofram github stats" style=""
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofram&theme=dracula&layout=compact" />
-</div>
-
-![Snake animation](https://github.com/rofram/rofram/blob/output/github-contribution-grid-snake.svg)
