@@ -1,8 +1,8 @@
 <!-- Greeting -->
-# Hey there! :wave:
+# Rodrigo de França Barbosa Pereira
 
 <!--Introduction -->
-I'm Rodrigo! I'm a **Web Developer FullStack**, looking to solve **real-world problems**. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+Eu sou o Rodrigo! Sou um Desenvolvedor FullStack, buscando resolver problemas do mundo real. Tenho paixão por tornar o código aberto mais acessível, criando software:computer: e ferramentas para ajudar as pessoas, e construindo uma comunidade. Se você achar meu projeto interessante, por favor, :star2: no meu repositório. Pelo menos sua estrela pode alegrar o dia de alguém :smile:.
 <br>
 
 <!-- Your badges -->
@@ -10,53 +10,30 @@ I'm Rodrigo! I'm a **Web Developer FullStack**, looking to solve **real-world pr
 [![Behance](https://img.shields.io/badge/-Rodrigo_França-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/rofran)
 [![Gmail](https://img.shields.io/badge/-howdrigo.fr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:howdrigo.fr@gmail.com)
 
-
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=Rofram&style=flat)
-[![Github](https://img.shields.io/badge/-Rofram-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/Rofram)
-
 ### Um pouco sobre mim...
 
 ```javascript
 const me = {
-    code: ["Javascript", "Typescript", "Python", "Rust", "Dart"],
+    code: ["Javascript", "Typescript", "Python", "Rust", "Dart", "Go"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        backEnd: {
-            js: ["Node", "nest", "Express"],
-            py: ["Flask", "Django"]
+        backend: {
+            js: ["Node", "Nestjs", "Express"],
+            py: ["Flask", "FastAPI", "Django"],
+            go: ["Fiber", "echo", "go-chi"]
         },
-        mobileApp: {
+        frontend: {
+            framework: ["Nextjs", "SvelteKit", "Astro"]
+        },
+        mobile: {
             framework: ["React native", "Flutter"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "Postgres", "sqlite"],
+        databases: ["Mongo", "MySql", "Postgres", "Sqlite"],
         misc: ["Firebase", "Socket.IO", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Frontend Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona."
 };
-```
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-🌆 Daytime    153 commits    █████████░░░░░░░░░░░░░░░░   38.64% 
-🌃 Evening    122 commits    ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌙 Night      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.42%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
-Wednesday    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
-Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
-Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Saturday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Sunday       97 commits     ██████░░░░░░░░░░░░░░░░░░░   24.49%
-
 ```
