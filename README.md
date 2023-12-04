@@ -2,7 +2,7 @@
 # Rodrigo de França Barbosa Pereira
 
 <!--Introduction -->
-Eu sou o Rodrigo! Sou um Desenvolvedor FullStack, buscando resolver problemas do mundo real. Tenho paixão por tornar o código aberto mais acessível, criando software:computer: e ferramentas para ajudar as pessoas, e construindo uma comunidade.
+Eu sou o Rodrigo! Sou um Desenvolvedor FullStack, buscando resolver problemas do mundo real. Tenho paixão por tornar o código aberto mais acessível, criando software e ferramentas para ajudar as pessoas, e construindo uma comunidade.
 <br>
 
 <!-- Your badges -->
