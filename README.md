@@ -33,7 +33,7 @@ const me = {
         misc: ["Firebase", "Socket.IO", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Frontend Development",
+    currentFocus: "Backend Development",
     funFact: "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona."
 };
 ```
